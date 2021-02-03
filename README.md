@@ -1,7 +1,7 @@
 ## YOLO-Review
 Review YOLO v1 ~ v3
 
-# yolo v1:
+# YOLO v1:
 
 split image to 7*7 subimage , and every subimage just look one time 
 
